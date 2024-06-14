@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pck1eRick
+- 👋 Hi, I’m @akhilthomas16
 - 👀 I’m interested in working as a developer
 - 🌱 I’m currently learning different frameworks of python and other programming languages
 - 💞️ I’m looking to collaborate on any website or app development
