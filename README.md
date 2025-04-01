@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @akhilthomas16
-- 👀 I’m interested in working as a developer
-- 🌱 I’m currently learning different frameworks of python and other programming languages
-- 💞️ I’m looking to collaborate on any website or app development
+- 👀 I’m working as a python developer
+- 🌱 I’m in the process learning python and other programming languages to further my skills
+- 💞️ I’m looking to collaborate with like minded people
 - 📫 How to reach me is through my email in profile
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...nil
 - ⚡ Fun fact: ...
 
 <!---
-Pck1eRick/Pck1eRick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+akhilthomas16/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
