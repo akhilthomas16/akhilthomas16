@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akhilthomas16
 - 👀 I’m working as a python developer
-- 🌱 I’m in the process learning python and other programming languages to further my skills
-- 💞️ I’m looking to collaborate with like minded people
-- 📫 How to reach me is through my email in profile
+- 🌱 I’m currently learning advanced Python, Django, and machine learning.
+- 💞️ I’m looking to collaborate on open source Python projects or with developers interested in data science.
+- 📫 How to reach me: [Email](mailto: akhilthomasthazhatha@gmail.com) or through my [LinkedIn](https://www.linkedin.com/in/akhilthomas16/)
 - 😄 Pronouns: ...nil
 - ⚡ Fun fact: ...
 
